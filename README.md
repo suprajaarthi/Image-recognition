@@ -11,4 +11,6 @@ https://commons.wikimedia.org/wiki/Main_Page
 
 <b>References :</b> 
 
-https://tfhub.dev/tensorflow/collections/object_detection/1
+- https://tfhub.dev/tensorflow/collections/object_detection/1
+
+- https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/object_detection.ipynb
