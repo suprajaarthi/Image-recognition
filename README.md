@@ -9,4 +9,6 @@ https://commons.wikimedia.org/wiki/Main_Page
   - Copy file URL
   - https://upload.wikimedia.org/wikipedia/commons/6/69/June_odd-eyed-cat_cropped.jpg
 
+<b>References :</b> 
+
 https://tfhub.dev/tensorflow/collections/object_detection/1
