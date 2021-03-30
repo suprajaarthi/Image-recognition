@@ -14,3 +14,19 @@ https://commons.wikimedia.org/wiki/Main_Page
 - https://tfhub.dev/tensorflow/collections/object_detection/1
 
 - https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/object_detection.ipynb
+
+# OCR - Image Preprocessing 
+Pillow, Tesseract , Kraken and OpenCV for Image preprocessing and Optical Character Recognition 
+<hr>
+To upload image using Drive : 
+
+```python
+from google.colab import drive
+drive.mount('/content/drive')
+#Mounted at /content/drive
+file = files.upload()
+# image=Image.open(file)
+# print(file)
+image=Image.open('/content/drive/My Drive/dawn.jpg')
+print(image)
+```
